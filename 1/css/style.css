@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    position: relative;
+    background-color: lightblue;
+}
+h2{
+    margin: 10px;
+}
+h3{
+    margin: 10px;
+}
+p{
+    margin: 20px;
+}
+b{
+    margin: 10px;
+}
+ul{
+    margin: 20px;s
+}
